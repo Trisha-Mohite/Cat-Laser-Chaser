@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h1{
+  font-size: 28px;
+  width: 35%;
+  text-align: center;
+  margin: 10px auto;
+  color: #141c3a;
+}
+
+p{
+  font-size: 16px;
+  width: 40%;
+  text-align: center;
+  font-weight: 400;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  color: #151B54;
+  line-height: 1.5;
+}
+
+#container{
+  background: #FFFF9F;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  float: left;
+  padding-top: 10px;
+}
